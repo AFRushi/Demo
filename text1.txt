@@ -1,3 +1,6 @@
 I made changes
 another changes.
 made changes on git
+
+after merging changes
+...
